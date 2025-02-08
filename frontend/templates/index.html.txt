@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Organ Donation System</title>
+</head>
+<body>
+    <h1>Welcome to the Organ Donation System</h1>
+</body>
+</html>
